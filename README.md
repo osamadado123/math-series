@@ -1,5 +1,6 @@
-# math-series
-# osama maher
+# lab : class2
+# project : math-series
+# author : osama maher
 # How to initialize/run your application
 use python math_series/series.py
 
